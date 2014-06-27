@@ -1,4 +1,4 @@
 kennethsime.github.io
 =====================
 
-Kenneth Sime
+Kenneth Sime is a junior-level systems administrator.
